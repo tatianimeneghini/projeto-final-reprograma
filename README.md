@@ -37,11 +37,11 @@ A **API Literatura LGBT** cria um Banco de Dados de livros e disponbiliza seu ac
 
 ### Endpoints
 Os endpoints criados são:
-- A rota GET /literaturaLGBT deve trazer a lista de todos livros.
-- A rota GET /literaturaLGBT/buscarPorTitulo/:titulo deve retornar os livros pelo título.
-- A rota GET /literaturaLGBT/buscaPorAutoria/:autoria deve retornar os livros pela autoria.
-- A rota GET /literaturaLGBT/buscaPorEstilo/:estiloNarrativo deve retornar os livros pelo estilo narrativo.
-- A rota GET /literaturaLGBT/buscaPorGenero/:generoLiterario deve retornar os livros pelo gênero literário.
+- A rota GET /literatura-LGBT deve trazer a lista de todos livros.
+- A rota GET /buscarPorTitulo/:titulo deve retornar os livros pelo título.
+- A rota GET /buscaPorAutoria/:autoria deve retornar os livros pela autoria.
+- A rota GET /buscaPorEstilo/:estiloNarrativo deve retornar os livros pelo estilo narrativo.
+- A rota GET /buscaPorGenero/:generoLiterario deve retornar os livros pelo gênero literário.
 - A rota POST /criar deve receber no body o *titulo* do livro a ser adicionado no Banco de Dados, seguido de *autoria* e *generoLiterário* (requeridos), *estiloNarrativo*, *editora*, *anoDeLancamento* e *acessoLink* (opcionais).
 - A rota PATCH /atualizar/:id deve salvar as atualizações do livro através de seu id.
 - A rota DELETE /remover/:id deve remover o livro através de seu id.
