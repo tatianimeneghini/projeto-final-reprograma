@@ -6,16 +6,16 @@ O projeto tem como nome "Literatura LGBT", com o objetivo de disponibilizar aos 
 É a primeira iniciativa de criar um Banco de Dados colaborativo do tema, com acesso por API.
 
 ### Passo a passo pra criar a API:
-- README.md
+- *README.md*
 - `npm init`
 - `npm install express`
 - `npm install mongoose`
 - `npm install -D nodemon`
 - `npm install body-parser`
-- .gitignore com node_modules
-- criar server.js rodando o app.js com a porta escolhida (5005).
-- criar o app.js com o express, exportando o app.
-- `npm install dotenv-safe` e verificar a versão ^6.1.0 no package.json.
+- *.gitignore* com *node_modules*
+- criar *server.js* rodando o *app.js* com a porta escolhida (5005).
+- criar o *app.js* com o *express*, exportando o app.
+- `npm install dotenv-safe` e verificar a versão ^6.1.0 no *package.json*.
 
 ### Instalação
 Para clonar o repositório, acessar o *Git Bash* (Windows) ou terminal (Linux, MAC):
