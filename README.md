@@ -1,6 +1,7 @@
 # Projeto Final Reprograma
 Projeto Final do Bootcamp de Backend da Reprograma, desenvolvido por Tatiani Meneghini.
-:book: :rainbow:
+
+## API de Literatura LGBT :book: :rainbow:
 
 ### Passo a passo pra criar a API:
 - README.md
@@ -12,11 +13,11 @@ Projeto Final do Bootcamp de Backend da Reprograma, desenvolvido por Tatiani Men
 - criar o app.js com o express, exportando o app.
 - npm install dotenv-safe e verificar a versão ^6.1.0 no package.json.
 
-## Objetivo
+### Objetivo
 O projeto tem como nome "Literatura LGBT", com o objetivo de disponibilizar aos usuários um Banco de Dados de livros e autores LGBTs (Lésbicas, Gays, Bissexuais e Transexuais).
 É a primeira iniciativa de criar um Banco de Dados colaborativo do tema, com acesso por API.
 
-## Requisitos
+### Requisitos
 - Cada livro deve possuir os seguintes campos: título, autoria, gênero literário, editora, ano de lançamento.
 - Diferenciar os títulos dos livros, para não possuir diferentes livros com o mesmo nome.
 - Links é opcional, para caso de livros que estejam disponíveis online.
