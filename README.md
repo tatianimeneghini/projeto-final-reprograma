@@ -1,8 +1,8 @@
 # Projeto Final Reprograma
 Projeto Final do Bootcamp de Backend da Reprograma, em parceria com a Accenture e o Facebook, desenvolvido por Tatiani Meneghini.
 
-## API de Literatura LGBT :book: :rainbow:
-O projeto tem como nome "Literatura LGBT", com o objetivo de disponibilizar aos usuários um Banco de Dados de livros e autores LGBTs (Lésbicas, Gays, Bissexuais e Transexuais).
+## API Literatura LGBT :book: :rainbow:
+O projeto tem como nome **Literatura LGBT**, com o objetivo de disponibilizar aos usuários um Banco de Dados de livros e autores LGBTs (Lésbicas, Gays, Bissexuais e Transexuais).
 É a primeira iniciativa de criar um Banco de Dados colaborativo do tema, com acesso por API.
 
 ### Passo a passo pra criar a API:
